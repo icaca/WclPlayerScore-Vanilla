@@ -16,9 +16,10 @@ end
 local function loadScoreDB()
 	local ScoreDB1 = { }
 	local ScoreDB2 = { }
-	local ScoreDB3 = { }
-	local ScoreDB4 = { }
-	local ScoreDB6 = { "Golemagg","Sulfuron","Gehennas","Firemaw","Gandling","Mograine","Noggenfogger","Ashbringer","Finkle","Bloodfang","Earthshaker","Bloodsail Buccaneers","Faerlina","Fairbanks","Grobbulus","Herod","Mankrik","Pagle","Whitemane","Golemagg","Hydraxian Waterlords","Mirage Raceway","Pyrewood Village","Shazzrah","Auberdine","Sulfuron","Everlook","Пламегор","Gehennas","Blaumeux","Skeram","Firemaw","Gandling","Mograine","Nethergarde Keep","Razorgore","Bigglesworth","Westfall","로크홀라","伊弗斯","瑪拉頓","Kurinnaxx","Noggenfogger","Smolderweb","Sulfuras","Ashkandi","Rattlegore","Thunderfury","Windseeker","Ashbringer","Skullflame","Dragon's Call","Lakeshire","Anathema","Bloodfang","Earthshaker","Venoxis","얼음피","라그나로스","힐스브래드","Arcanite Reaper","Heartstriker","Dragonfang","Defias Pillager","Stitches","막고라","特雷姆斯"}
+	local ScoreDB3 = { "伊弗斯","瑪拉頓","特雷姆斯","虛無行者","十字軍聖擊","生命烈焰","孤狼","野性痊癒"}
+	local ScoreDB4 = { "Bloodsail Buccaneers","Faerlina","Fairbanks","Grobbulus","Herod","Mankrik","Pagle","Whitemane","Blaumeux","Skeram","Bigglesworth","Westfall","Kurinnaxx","Smolderweb","Sulfuras","Ashkandi","Rattlegore","Thunderfury","Windseeker","Anathema","Arcanite Reaper","Defias Pillager" }
+	local ScoreDB5 = { "Golemagg","Sulfuron","Gehennas","Firemaw","Gandling","Mograine","Noggenfogger","Ashbringer","Finkle","Bloodfang","Earthshaker","Golemagg","Hydraxian Waterlords","Mirage Raceway","Pyrewood Village","Shazzrah","Auberdine","Sulfuron","Everlook","Пламегор","Gehennas","Firemaw","Gandling","Mograine","Nethergarde Keep","Razorgore","Noggenfogger","Ashbringer","Skullflame","Dragon's Call","Lakeshire","Bloodfang","Earthshaker","Venoxis","Heartstriker","Dragonfang","Stitches"}
+	local ScoreDB6 = { "로크홀라","얼음피","라그나로스","힐스브래드","막고라"}
 
 	for k, v in ipairs(ScoreDB1) do
 		if v == GetRealmName() then LoadAddOn("WclPlayerScore-Vanilla_DB1")
@@ -36,16 +37,13 @@ local function loadScoreDB()
 		if v == GetRealmName() then LoadAddOn("WclPlayerScore-Vanilla_DB4")
 		end
 	end
+	for k, v in ipairs(ScoreDB5) do
+		if v == GetRealmName() then LoadAddOn("WclPlayerScore-Vanilla_DB5")
+		end
+	end	
 	for k, v in ipairs(ScoreDB6) do
 		if v == GetRealmName() then LoadAddOn("WclPlayerScore-Vanilla_DB6")
 		end
-	end
-	if not IsAddOnLoaded("WclPlayerScore-Vanilla_DB1") and
-		not IsAddOnLoaded("WclPlayerScore-Vanilla_DB2") and
-		not IsAddOnLoaded("WclPlayerScore-Vanilla_DB3") and
-		not IsAddOnLoaded("WclPlayerScore-Vanilla_DB4") and
-		not IsAddOnLoaded("WclPlayerScore-Vanilla_DB6") then
-		LoadAddOn("WclPlayerScore-Vanilla_DB5")
 	end
 end
 
