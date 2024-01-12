@@ -4,17 +4,6 @@
 ## LoadOnDemand: 1
 ## Dependencies: WclPlayerScore-Vanilla
 
-5013.lua
-5020.lua
-5026.lua
-5029.lua
-5031.lua
-5032.lua
-5057.lua
-5071.lua
-5078.lua
-5081.lua
-5084.lua
 10013.lua
 10014.lua
 10015.lua
