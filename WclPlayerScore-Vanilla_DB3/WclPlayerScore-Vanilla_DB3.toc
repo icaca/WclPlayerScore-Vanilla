@@ -4,11 +4,11 @@
 ## LoadOnDemand: 1
 ## Dependencies: WclPlayerScore-Vanilla
 
-10052
-10053
-10215
-10217
-10234
-10235
-10236
-10237
+10052.lua
+10053.lua
+10215.lua
+10217.lua
+10234.lua
+10235.lua
+10236.lua
+10237.lua
