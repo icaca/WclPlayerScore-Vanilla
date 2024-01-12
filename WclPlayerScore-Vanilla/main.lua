@@ -16,10 +16,10 @@ end
 local function loadScoreDB()
 	local ScoreDB1 = { }
 	local ScoreDB2 = { }
-	local ScoreDB3 = { "伊弗斯","瑪拉頓","特雷姆斯","虛無行者","十字軍聖擊","生命烈焰","孤狼","野性痊癒"}
-	local ScoreDB4 = { "Bloodsail Buccaneers","Faerlina","Fairbanks","Grobbulus","Herod","Mankrik","Pagle","Whitemane","Blaumeux","Skeram","Bigglesworth","Westfall","Kurinnaxx","Smolderweb","Sulfuras","Ashkandi","Rattlegore","Thunderfury","Windseeker","Anathema","Arcanite Reaper","Defias Pillager" }
-	local ScoreDB5 = { "Golemagg","Sulfuron","Gehennas","Firemaw","Gandling","Mograine","Noggenfogger","Ashbringer","Finkle","Bloodfang","Earthshaker","Golemagg","Hydraxian Waterlords","Mirage Raceway","Pyrewood Village","Shazzrah","Auberdine","Sulfuron","Everlook","Пламегор","Gehennas","Firemaw","Gandling","Mograine","Nethergarde Keep","Razorgore","Noggenfogger","Ashbringer","Skullflame","Dragon's Call","Lakeshire","Bloodfang","Earthshaker","Venoxis","Heartstriker","Dragonfang","Stitches"}
-	local ScoreDB6 = { "로크홀라","얼음피","라그나로스","힐스브래드","막고라"}
+	local ScoreDB3 = { "伊弗斯","瑪拉頓","特雷姆斯","虛無行者","十字軍聖擊","生命烈焰","孤狼","野性痊癒" }
+	local ScoreDB4 = { "Bloodsail Buccaneers","Faerlina","Fairbanks","Grobbulus","Herod","Mankrik","Pagle","Whitemane","Blaumeux","Skeram","Bigglesworth","Westfall","Kurinnaxx","Smolderweb","Sulfuras","Ashkandi","Rattlegore","Thunderfury","Windseeker","Anathema","Arcanite Reaper","Defias Pillager","Crusader Strike","Lava Lash","Living Flame","Lone Wolf","Wild Growth","Chaos Bolt" }
+	local ScoreDB5 = { "Golemagg","Sulfuron","Gehennas","Firemaw","Gandling","Mograine","Noggenfogger","Ashbringer","Finkle","Bloodfang","Earthshaker","Golemagg","Hydraxian Waterlords","Mirage Raceway","Pyrewood Village","Shazzrah","Auberdine","Sulfuron","Everlook","Пламегор","Gehennas","Firemaw","Gandling","Mograine","Nethergarde Keep","Razorgore","Noggenfogger","Ashbringer","Skullflame","Dragon's Call","Lakeshire","Bloodfang","Earthshaker","Venoxis","Рок-Делар","Heartstriker","Dragonfang","Nek'Rosh","Stitches","Crusader Strike","Lava Lash","Living Flame","Lone Wolf","Wild Growth","Удар Тьмы","Chaos Bolt" }
+	local ScoreDB6 = { "로크홀라","얼음피","라그나로스","힐스브래드","막고라","고독한 늑대","급속 성장"}
 
 	for k, v in ipairs(ScoreDB1) do
 		if v == GetRealmName() then LoadAddOn("WclPlayerScore-Vanilla_DB1")
