@@ -1,9 +1,0 @@
-{
-    "Lua.diagnostics.globals": [
-        "SlashCmdList",
-        "UIDropDownMenu_AddButton",
-        "UIDROPDOWNMENU_MENU_LEVEL",
-        "UIDropDownMenu_CreateInfo",
-        "DEFAULT_CHAT_FRAME"
-    ]
-}
