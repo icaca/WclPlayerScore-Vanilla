@@ -6,6 +6,7 @@ STOP_Database = {
 }
 
 WP_Database = {
-["Dnalrot"]="RI:(元素)1478/58.0%|0",
+["Tahori"]="UX:(恢复)4422/47.5%|0",
+["Dnalrot"]="RX:(元素)1478/58.0%|0",
 ["LASTUPDATE"]="2024-01-12"
 }
