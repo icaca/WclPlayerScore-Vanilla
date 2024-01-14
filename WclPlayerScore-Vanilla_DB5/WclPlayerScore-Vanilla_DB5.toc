@@ -1,0 +1,41 @@
+## Interface: 11500
+## Title: WclPS-Vanilla|cFF3782D1[欧服数据包]|r
+## Author: 插件作者：zwj@oldgun ，TBC数据提取：SaberNio，Vanilla数据提取：caca，鸣谢：deepapa@NGA
+## LoadOnDemand: 1
+## Dependencies: WclPlayerScore-Vanilla
+
+10013.lua
+10014.lua
+10015.lua
+10016.lua
+10017.lua
+10019.lua
+10020.lua
+10021.lua
+10024.lua
+10026.lua
+10029.lua
+10031.lua
+10032.lua
+10033.lua
+10034.lua
+10057.lua
+10071.lua
+10073.lua
+10075.lua
+10076.lua
+10081.lua
+10084.lua
+10088.lua
+10094.lua
+10099.lua
+10103.lua
+10212.lua
+10213.lua
+10225.lua
+10226.lua
+10227.lua
+10228.lua
+10229.lua
+10231.lua
+10239.lua
