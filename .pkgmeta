@@ -1,0 +1,17 @@
+package-as: WclPlayerScore-Vanilla
+
+enable-nolib-creation: no
+
+ignore:
+  - .github/*
+  - README.md
+
+move-folders:
+  WclPlayerScore-Vanilla/WclPlayerScore-Vanilla: WclPlayerScore-Vanilla
+  WclPlayerScore-Vanilla/WclPlayerScore-Vanilla_DB1: WclPlayerScore-Vanilla_DB1
+  WclPlayerScore-Vanilla/WclPlayerScore-Vanilla_DB2: WclPlayerScore-Vanilla_DB2
+  WclPlayerScore-Vanilla/WclPlayerScore-Vanilla_DB3: WclPlayerScore-Vanilla_DB3
+  WclPlayerScore-Vanilla/WclPlayerScore-Vanilla_DB4: WclPlayerScore-Vanilla_DB4
+  WclPlayerScore-Vanilla/WclPlayerScore-Vanilla_DB5: WclPlayerScore-Vanilla_DB5
+  WclPlayerScore-Vanilla/WclPlayerScore-Vanilla_DB6: WclPlayerScore-Vanilla_DB6
+  
