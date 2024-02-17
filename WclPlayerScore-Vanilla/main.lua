@@ -64,7 +64,10 @@ local function expand(name)
 		end,
 		["F"] = function()
 			return "BFD"
-		end,		
+		end,
+		["G"] = function()
+			return "GNO"
+		end,
 		["A"] = function()
 			return "|cFFE5CC80"
 		end,
