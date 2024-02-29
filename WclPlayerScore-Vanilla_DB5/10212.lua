@@ -29,7 +29,6 @@ STOP_Database = {
 ["Wobsterz"]="3火法",
 ["Flipster"]="3神牧",
 ["Ezdodgekappa"]="3奇袭贼",
-["Wheremana"]="3元素萨,4恢复萨",
 ["Sny"]="3恢复萨",
 ["Acrophob"]="3毁灭术",
 ["Grukashaa"]="3防战,13狂暴战",
@@ -37,6 +36,7 @@ STOP_Database = {
 ["Borshetti"]="4火法",
 ["Sukhminh"]="4神牧",
 ["Rogueaway"]="4奇袭贼",
+["Wheremana"]="3元素萨,4恢复萨",
 ["Yukod"]="4狂暴战,4防战",
 ["Pisikok"]="5射击猎",
 ["Natori"]="5神牧",
@@ -67,6 +67,5 @@ STOP_Database = {
 }
 
 WP_Database = {
-["Elohims"]="CX:(神圣)20284/3.7%|14",
-["LASTUPDATE"]="2024-02-29"
+["LASTUPDATE"]="2024-03-01"
 }
