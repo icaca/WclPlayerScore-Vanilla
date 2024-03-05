@@ -17,7 +17,9 @@ STOP_Database = {
 ["Kithara"]="2恢复德",
 ["Rekasha"]="2射击猎",
 ["Desigual"]="2火法",
+["Daroma"]="2冰法,9火法",
 ["Nîkî"]="2奶骑",
+["Pandàru"]="2神牧,4暗牧",
 ["Karai"]="2暗牧,6神牧",
 ["Elninjoo"]="2奇袭贼",
 ["Koppi"]="2毁灭术",
@@ -38,7 +40,6 @@ STOP_Database = {
 ["Gelgah"]="4射击猎",
 ["Unlust"]="4火法",
 ["Nheo"]="4神牧",
-["Pandàru"]="2神牧,4暗牧",
 ["Nalanî"]="4毁灭术",
 ["Dunmir"]="4狂暴战",
 ["Effert"]="4防战,14狂暴战",
@@ -62,7 +63,6 @@ STOP_Database = {
 ["Ninurta"]="8火法",
 ["Lufthans"]="8神牧",
 ["Shielddemon"]="8狂暴战",
-["Daroma"]="2冰法,9火法",
 ["Liaha"]="9神牧",
 ["Graydeath"]="9狂暴战",
 ["Tifany"]="10火法",
@@ -77,5 +77,5 @@ STOP_Database = {
 }
 
 WP_Database = {
-["LASTUPDATE"]="2024-03-05"
+["LASTUPDATE"]="2024-03-06"
 }

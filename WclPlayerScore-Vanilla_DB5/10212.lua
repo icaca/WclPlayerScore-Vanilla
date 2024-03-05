@@ -39,12 +39,11 @@ STOP_Database = {
 ["Sukhminh"]="4神牧",
 ["Rogueaway"]="4奇袭贼",
 ["Wheremana"]="3元素萨,4恢复萨",
-["Yukod"]="4防战,4狂暴战",
+["Yukod"]="4狂暴战,4防战",
 ["Pisikok"]="5射击猎",
 ["Natori"]="5神牧",
 ["Andel"]="5奇袭贼",
 ["Hctotte"]="5恢复萨",
-["Smolbrain"]="5狂暴战,7防战",
 ["Huntarix"]="6射击猎",
 ["Salat"]="6火法",
 ["Bingo"]="6神牧",
@@ -57,6 +56,7 @@ STOP_Database = {
 ["Haaricho"]="7奇袭贼",
 ["Furplay"]="7恢复萨",
 ["Stenkul"]="7狂暴战",
+["Smolbrain"]="5狂暴战,7防战",
 ["Downloaderz"]="8火法",
 ["Elohims"]="8神牧",
 ["Ziqzilla"]="8狂暴战",
@@ -67,5 +67,5 @@ STOP_Database = {
 }
 
 WP_Database = {
-["LASTUPDATE"]="2024-03-05"
+["LASTUPDATE"]="2024-03-06"
 }
