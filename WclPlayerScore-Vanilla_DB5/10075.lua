@@ -9,7 +9,7 @@ STOP_Database = {
 ["Jackyy"]="1奶骑,1惩戒骑",
 ["Moonchichi"]="1神牧,1暗牧",
 ["Freshjuice"]="1毁灭术",
-["Schmid"]="1防战,2狂暴战",
+["Rabaukin"]="1防战,3狂暴战",
 ["Habii"]="2平衡德,2猫德,2熊德",
 ["Womanbearcat"]="2恢复德",
 ["Sebrella"]="2射击猎",
@@ -18,7 +18,7 @@ STOP_Database = {
 ["Thureugam"]="2暗牧,3神牧",
 ["Seiya"]="2奇袭贼",
 ["Jackyynator"]="2毁灭术",
-["Rabaukin"]="2防战,3狂暴战",
+["Schmid"]="2狂暴战,2防战",
 ["Digedi"]="1猫德,1熊德,3恢复德",
 ["Elfenberg"]="3射击猎",
 ["Calurea"]="3火法",
@@ -39,5 +39,5 @@ STOP_Database = {
 }
 
 WP_Database = {
-["LASTUPDATE"]="2024-03-06"
+["LASTUPDATE"]="2024-03-07"
 }

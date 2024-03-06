@@ -107,13 +107,13 @@ STOP_Database = {
 ["Senal"]="12射击猎",
 ["Lomez"]="12火法",
 ["Stressfarts"]="12奶骑",
-["Lolita"]="12神牧",
+["Honeydew"]="9暗牧,12神牧",
 ["Mika"]="12奇袭贼",
 ["Watch"]="10元素萨,12恢复萨",
 ["Lockdude"]="12毁灭术",
 ["Zhu"]="13射击猎",
 ["Tianxin"]="13火法",
-["Honeydew"]="9暗牧,13神牧",
+["Lolita"]="13神牧",
 ["Baxurgeon"]="13奇袭贼",
 ["Katonka"]="13恢复萨",
 ["Stanley"]="13毁灭术",
@@ -187,5 +187,5 @@ STOP_Database = {
 }
 
 WP_Database = {
-["LASTUPDATE"]="2024-03-06"
+["LASTUPDATE"]="2024-03-07"
 }

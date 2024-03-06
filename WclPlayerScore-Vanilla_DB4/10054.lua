@@ -5,8 +5,7 @@ end
 STOP_Database = {
 ["Whaletime"]="1平衡德,1恢复德",
 ["Spring"]="1射击猎",
-["Agyumlol"]="1火法",
-["Agyumloltwo"]="1冰法,2火法",
+["Agyumloltwo"]="1火法,1冰法",
 ["Lilbaldspot"]="1奶骑,2惩戒骑",
 ["Brizzly"]="1神牧,1暗牧",
 ["Agyum"]="1奇袭贼",
@@ -16,6 +15,7 @@ STOP_Database = {
 ["Warand"]="1防战,24狂暴战",
 ["Nuggetry"]="2恢复德",
 ["Destinysky"]="2射击猎",
+["Agyumlol"]="2火法",
 ["Nuranfu"]="1惩戒骑,2奶骑",
 ["Demetris"]="2暗牧,5神牧",
 ["Raserie"]="2奇袭贼",
@@ -91,5 +91,5 @@ STOP_Database = {
 }
 
 WP_Database = {
-["LASTUPDATE"]="2024-03-06"
+["LASTUPDATE"]="2024-03-07"
 }

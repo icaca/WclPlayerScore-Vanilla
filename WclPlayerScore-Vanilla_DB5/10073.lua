@@ -92,13 +92,13 @@ STOP_Database = {
 ["Turina"]="10狂暴战,19防战",
 ["Metalstorm"]="3狂暴战,10防战",
 ["Linaithree"]="5冰法,11火法",
-["Ill"]="11奶骑",
+["Pallazis"]="11奶骑",
 ["Punksdead"]="7神牧,11暗牧",
 ["Zxsixxninja"]="11奇袭贼",
 ["Ðvx"]="11狂暴战,21防战",
 ["Magnitude"]="11防战,39狂暴战",
 ["Laputa"]="6冰法,12火法",
-["Pallazis"]="12奶骑",
+["Ill"]="12奶骑",
 ["Adwayniel"]="10神牧,12暗牧",
 ["Dbr"]="12奇袭贼",
 ["Julíette"]="12狂暴战",
@@ -150,5 +150,5 @@ STOP_Database = {
 }
 
 WP_Database = {
-["LASTUPDATE"]="2024-03-06"
+["LASTUPDATE"]="2024-03-07"
 }

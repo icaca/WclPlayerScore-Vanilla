@@ -39,13 +39,13 @@ STOP_Database = {
 ["Andriá"]="4暗牧,4神牧",
 ["Zahnfee"]="4奇袭贼",
 ["Malcom"]="4毁灭术",
-["Eran"]="4狂暴战",
+["Hanswurst"]="4狂暴战",
 ["Krumme"]="1狂暴战,4防战",
 ["Jinzara"]="5恢复德",
 ["Skrator"]="5火法",
 ["Valacayron"]="5暗牧,5神牧",
 ["Kidcat"]="5奇袭贼",
-["Hanswurst"]="5狂暴战",
+["Eran"]="5狂暴战",
 ["Luxxy"]="2猫德,2熊德,4平衡德,6恢复德",
 ["Ðurasor"]="6火法",
 ["Ricksen"]="6奶骑",
@@ -60,5 +60,5 @@ STOP_Database = {
 }
 
 WP_Database = {
-["LASTUPDATE"]="2024-03-06"
+["LASTUPDATE"]="2024-03-07"
 }

@@ -40,12 +40,12 @@ STOP_Database = {
 ["Haroldramis"]="4奇袭贼",
 ["Hicks"]="4恢复萨",
 ["Clockblock"]="4毁灭术",
+["Sponges"]="4狂暴战",
 ["Thorngreen"]="5恢复德",
 ["Hadouken"]="2冰法,5火法",
 ["Pptouch"]="5奶骑",
 ["Sledgehammy"]="5奇袭贼",
 ["Dun"]="5恢复萨",
-["Sponges"]="5狂暴战",
 ["Guillaume"]="5防战,17狂暴战",
 ["Roar"]="1猫德,1熊德,6恢复德",
 ["Aldon"]="6火法",
@@ -76,7 +76,7 @@ STOP_Database = {
 ["Labiola"]="11狂暴战",
 ["Coy"]="3狂暴战,11防战",
 ["Thug"]="12狂暴战",
-["Slappaz"]="4狂暴战,12防战",
+["Slappaz"]="5狂暴战,12防战",
 ["Aayla"]="13狂暴战",
 ["Zorolol"]="8狂暴战,13防战",
 ["Igor"]="18狂暴战",
@@ -92,5 +92,5 @@ STOP_Database = {
 }
 
 WP_Database = {
-["LASTUPDATE"]="2024-03-06"
+["LASTUPDATE"]="2024-03-07"
 }
