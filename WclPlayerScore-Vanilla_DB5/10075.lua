@@ -15,14 +15,14 @@ STOP_Database = {
 ["Sebrella"]="2射击猎",
 ["Yufi"]="1火法,2冰法",
 ["Kajinosuke"]="2奶骑",
-["Thureugam"]="2暗牧,3神牧",
+["Cinnymaii"]="2神牧,3暗牧",
 ["Seiya"]="2奇袭贼",
 ["Jackyynator"]="2毁灭术",
 ["Schmid"]="2狂暴战,2防战",
 ["Digedi"]="1猫德,1熊德,3恢复德",
 ["Elfenberg"]="3射击猎",
 ["Calurea"]="3火法",
-["Cinnymaii"]="2神牧,3暗牧",
+["Thureugam"]="2暗牧,3神牧",
 ["Boppard"]="3奇袭贼",
 ["Mizane"]="1狂暴战,3防战",
 ["Nabenja"]="4奇袭贼",
@@ -39,5 +39,5 @@ STOP_Database = {
 }
 
 WP_Database = {
-["LASTUPDATE"]="2024-03-09"
+["LASTUPDATE"]="2024-03-10"
 }
