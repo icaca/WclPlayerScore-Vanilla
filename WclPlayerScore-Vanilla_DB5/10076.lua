@@ -20,6 +20,7 @@ STOP_Database = {
 ["Desigual"]="2火法",
 ["Xadis"]="2冰法",
 ["Nîkî"]="2奶骑",
+["Pandàru"]="2神牧,4暗牧",
 ["Karai"]="2暗牧,7神牧",
 ["Elninjoo"]="2奇袭贼",
 ["Koppi"]="2毁灭术",
@@ -39,7 +40,6 @@ STOP_Database = {
 ["Unlust"]="4火法",
 ["Hagaran"]="4冰法",
 ["Nheo"]="4神牧",
-["Pandàru"]="2神牧,4暗牧",
 ["Nalanî"]="4毁灭术",
 ["Dunmir"]="4狂战",
 ["Effert"]="4防战,14狂战",
@@ -78,5 +78,5 @@ STOP_Database = {
 }
 
 WP_Database = {
-["LASTUPDATE"]="2024-03-12"
+["LASTUPDATE"]="2024-03-13"
 }

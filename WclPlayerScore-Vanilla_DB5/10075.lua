@@ -3,8 +3,8 @@ return
 end
 
 STOP_Database = {
-["Kowlana"]="1恢复德,1平衡",
 ["Digedi"]="1野性德,1守护德,3恢复德",
+["Kowlana"]="1平衡,1恢复德",
 ["Jinzara"]="1射击猎",
 ["Jackyy"]="1奶骑,1惩戒骑",
 ["Moonchichi"]="1神牧,1暗牧",
@@ -39,5 +39,5 @@ STOP_Database = {
 }
 
 WP_Database = {
-["LASTUPDATE"]="2024-03-12"
+["LASTUPDATE"]="2024-03-13"
 }
