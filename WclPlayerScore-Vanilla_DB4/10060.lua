@@ -6,14 +6,15 @@ STOP_Database = {
 ["Margrtthtchr"]="1恢复德",
 ["Threyton"]="1射击猎",
 ["Zuljabar"]="1火法",
-["Vaile"]="1神牧,2暗牧",
+["Letstroll"]="1暗牧,2神牧",
 ["Ivankov"]="1奇袭贼",
+["Bigtoetem"]="1元素萨,4恢复萨",
 ["Caland"]="1增强萨,1恢复萨",
 ["Gormlaith"]="1毁灭术",
 ["Greatshield"]="1狂战,1防战",
 ["Djurun"]="2恢复德",
 ["Lomez"]="2火法",
-["Letstroll"]="1暗牧,2神牧",
+["Vaile"]="1神牧,2暗牧",
 ["Pachito"]="2奇袭贼",
 ["Tyrsii"]="2恢复萨",
 ["Deathranger"]="2狂战",
@@ -25,7 +26,6 @@ STOP_Database = {
 ["Greggio"]="3狂战",
 ["Jaktrpr"]="3防战,6狂战",
 ["Omnist"]="4奇袭贼",
-["Bigtoetem"]="1元素萨,4恢复萨",
 ["Gree"]="4狂战",
 ["Mmresd"]="5神牧",
 ["Waxer"]="5狂战",
@@ -35,5 +35,5 @@ STOP_Database = {
 }
 
 WP_Database = {
-["LASTUPDATE"]="2024-03-13"
+["LASTUPDATE"]="2024-03-14"
 }
