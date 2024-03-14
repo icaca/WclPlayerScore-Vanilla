@@ -7,6 +7,7 @@ STOP_Database = {
 ["Testes"]="1恢复德",
 ["Cuus"]="1射击猎",
 ["Froslor"]="1火法",
+["Bigbadaboomr"]="1冰法,5火法",
 ["Corvin"]="1神牧",
 ["Toteuch"]="1奇袭贼",
 ["Stuxnet"]="1元素萨",
@@ -38,7 +39,6 @@ STOP_Database = {
 ["Wheremana"]="3元素萨,4恢复萨",
 ["Yukod"]="4狂战,4防战",
 ["Pisikok"]="5射击猎",
-["Bigbadaboomr"]="1冰法,5火法",
 ["Natori"]="5神牧",
 ["Andel"]="5奇袭贼",
 ["Hctotte"]="5恢复萨",
@@ -67,5 +67,5 @@ STOP_Database = {
 }
 
 WP_Database = {
-["LASTUPDATE"]="2024-03-14"
+["LASTUPDATE"]="2024-03-15"
 }
