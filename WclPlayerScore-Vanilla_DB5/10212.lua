@@ -23,6 +23,7 @@ STOP_Database = {
 ["Blackdaddy"]="2元素萨",
 ["Cruzu"]="2恢复萨",
 ["Darkops"]="2毁灭术",
+["Karma"]="2狂战,5防战",
 ["Jokertroll"]="2防战,12狂战",
 ["Slushie"]="3恢复德",
 ["Feketekola"]="3射击猎",
@@ -31,6 +32,7 @@ STOP_Database = {
 ["Ezdodgekappa"]="3奇袭贼",
 ["Sny"]="3恢复萨",
 ["Acrophob"]="3毁灭术",
+["Dokzes"]="3狂战,6防战",
 ["Grukashaa"]="3防战,13狂战",
 ["Donkenfrappe"]="4射击猎",
 ["Borshetti"]="4火法",
@@ -42,14 +44,12 @@ STOP_Database = {
 ["Natori"]="5神牧",
 ["Andel"]="5奇袭贼",
 ["Hctotte"]="5恢复萨",
-["Karma"]="2狂战,5防战",
 ["Huntarix"]="6射击猎",
 ["Salat"]="6火法",
 ["Bingo"]="6神牧",
 ["Backboy"]="6奇袭贼",
 ["Spajkey"]="6恢复萨",
 ["Rocksmasherx"]="6狂战",
-["Dokzes"]="3狂战,6防战",
 ["Boarder"]="7射击猎",
 ["Deinernst"]="7火法",
 ["Runawaay"]="7神牧",
@@ -67,5 +67,5 @@ STOP_Database = {
 }
 
 WP_Database = {
-["LASTUPDATE"]="2024-03-15"
+["LASTUPDATE"]="2024-03-16"
 }
