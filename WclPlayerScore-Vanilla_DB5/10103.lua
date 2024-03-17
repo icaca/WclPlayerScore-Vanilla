@@ -6,10 +6,12 @@ STOP_Database = {
 ["Quetzal"]="1平衡,1恢复德",
 ["Feline"]="1射击猎",
 ["Vurtz"]="1火法,1冰法",
+["Maro"]="1奶骑,3惩戒骑",
 ["Fierabras"]="1惩戒骑,5奶骑",
 ["Arasuruv"]="1神牧,1暗牧",
 ["Sonntag"]="1奇袭贼",
 ["Ouest"]="1毁灭术",
+["Sbp"]="1狂战,3防战",
 ["Chogori"]="1防战,3狂战",
 ["Kastan"]="2恢复德",
 ["Ferocia"]="2射击猎",
@@ -22,11 +24,9 @@ STOP_Database = {
 ["Aloriane"]="3射击猎",
 ["Arcamon"]="3火法",
 ["Layercake"]="3奶骑",
-["Maro"]="1奶骑,3惩戒骑",
 ["Archpriest"]="3神牧,3暗牧",
 ["Lnz"]="3奇袭贼",
 ["Sakka"]="3毁灭术",
-["Sbp"]="1狂战,3防战",
 ["Mikasa"]="4射击猎",
 ["Doobydoobydo"]="4火法",
 ["Mouratos"]="4奶骑",
@@ -53,5 +53,5 @@ STOP_Database = {
 }
 
 WP_Database = {
-["LASTUPDATE"]="2024-03-17"
+["LASTUPDATE"]="2024-03-18"
 }
