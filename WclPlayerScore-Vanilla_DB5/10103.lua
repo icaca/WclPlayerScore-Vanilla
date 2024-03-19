@@ -5,7 +5,7 @@ end
 STOP_Database = {
 ["Quetzal"]="1平衡,1恢复德",
 ["Feline"]="1射击猎",
-["Vurtz"]="1冰法,1火法",
+["Vurtz"]="1火法,1冰法",
 ["Fierabras"]="1惩戒骑,5奶骑",
 ["Arasuruv"]="1神牧,1暗牧",
 ["Sonntag"]="1奇袭贼",
@@ -47,11 +47,11 @@ STOP_Database = {
 ["Ardx"]="6防战,7狂战",
 ["Thørøs"]="7射击猎",
 ["Mitsui"]="7神牧",
-["Skengman"]="7奇袭贼",
-["Shøx"]="8奇袭贼",
-["Mukelo"]="9奇袭贼",
+["Mukelo"]="7奇袭贼",
+["Skengman"]="8奇袭贼",
+["Shøx"]="9奇袭贼",
 }
 
 WP_Database = {
-["LASTUPDATE"]="2024-03-19"
+["LASTUPDATE"]="2024-03-20"
 }
