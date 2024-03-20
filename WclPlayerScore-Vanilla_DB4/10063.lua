@@ -3,7 +3,7 @@ return
 end
 
 STOP_Database = {
-["Hamtaró"]="1守护德,1恢复德,1平衡,1野性德",
+["Hamtaró"]="1平衡,1野性德,1守护德,1恢复德",
 ["Ducati"]="1射击猎",
 ["Thequestion"]="1火法,5冰法",
 ["Ëlron"]="1惩戒骑,5奶骑",
@@ -11,7 +11,6 @@ STOP_Database = {
 ["Rogueisme"]="1奇袭贼",
 ["Shockmonster"]="1恢复萨,4元素萨",
 ["Armok"]="1毁灭术",
-["Locxus"]="1防战,13狂战",
 ["Druchad"]="2恢复德",
 ["Beastbow"]="2射击猎",
 ["Ryan"]="2冰法,2火法",
@@ -20,7 +19,6 @@ STOP_Database = {
 ["Ratbag"]="2奇袭贼",
 ["Ravok"]="1元素萨,2恢复萨",
 ["Bora"]="2毁灭术",
-["Deviousnukka"]="2防战,12狂战",
 ["Minotaur"]="3恢复德",
 ["Sapphonyx"]="3射击猎",
 ["Loxosceles"]="3火法,6冰法",
@@ -60,6 +58,7 @@ STOP_Database = {
 ["Wtr"]="3冰法,7火法",
 ["Wtfomgnoway"]="7奶骑",
 ["Mylesgarrett"]="4暗牧,7神牧",
+["Rough"]="7暗牧,12神牧",
 ["Zuggalina"]="7奇袭贼",
 ["Orcthug"]="7恢复萨",
 ["Winter"]="7狂战",
@@ -83,9 +82,10 @@ STOP_Database = {
 ["Stryfe"]="5防战,11狂战",
 ["Rhody"]="2狂战,11防战",
 ["Shmiquorice"]="4冰法,12火法",
-["Rough"]="7暗牧,12神牧",
+["Deviousnukka"]="2防战,12狂战",
 ["Totomaki"]="13火法",
 ["Anastasis"]="13神牧",
+["Locxus"]="1防战,13狂战",
 ["Ubii"]="7冰法,14火法",
 ["Redsonja"]="13防战,14狂战",
 ["Blazra"]="15火法",
@@ -109,5 +109,5 @@ STOP_Database = {
 }
 
 WP_Database = {
-["LASTUPDATE"]="2024-03-20"
+["LASTUPDATE"]="2024-03-21"
 }
