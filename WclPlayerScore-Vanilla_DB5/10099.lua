@@ -14,6 +14,7 @@ STOP_Database = {
 ["Zonka"]="1防战,7狂战",
 ["Eisfalke"]="1平衡,2恢复德",
 ["Seeiah"]="2射击猎",
+["Vanillaray"]="2火法,4冰法",
 ["Bombpunzel"]="2冰法,4火法",
 ["Pompi"]="2奶骑",
 ["Heuser"]="2惩戒骑,4奶骑",
@@ -34,7 +35,6 @@ STOP_Database = {
 ["Weedze"]="3野性德,4守护德",
 ["Schnurre"]="4恢复德,5平衡",
 ["Kehsaa"]="4射击猎",
-["Vanillaray"]="2火法,4冰法",
 ["Midguard"]="4惩戒骑,6奶骑",
 ["Andriá"]="4神牧,4暗牧",
 ["Zahnfee"]="4奇袭贼",
@@ -61,5 +61,5 @@ STOP_Database = {
 }
 
 WP_Database = {
-["LASTUPDATE"]="2024-03-21"
+["LASTUPDATE"]="2024-03-22"
 }
