@@ -5,9 +5,9 @@ end
 STOP_Database = {
 ["Kowlana"]="1平衡,1恢复德",
 ["Jinzara"]="1射击猎",
-["Burníe"]="1奇袭贼,1冰法,2火法",
 ["Jackyy"]="1奶骑,1惩戒骑",
 ["Moonchichi"]="1神牧,1暗牧",
+["Burnie"]="1冰法,1奇袭贼,2火法",
 ["Freshjuice"]="1毁灭术",
 ["Rabaukin"]="1防战,3狂战",
 ["Habii"]="2平衡,2野性德,2守护德",
@@ -39,5 +39,5 @@ STOP_Database = {
 }
 
 WP_Database = {
-["LASTUPDATE"]="2024-03-22"
+["LASTUPDATE"]="2024-03-23"
 }

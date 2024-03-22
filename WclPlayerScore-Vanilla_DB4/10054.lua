@@ -12,6 +12,7 @@ STOP_Database = {
 ["Raserie"]="1奇袭贼",
 ["Yungrichorc"]="1增强萨,1元素萨,4恢复萨",
 ["Kzixx"]="1毁灭术",
+["Vyserion"]="1狂战,5防战",
 ["Warand"]="1防战,24狂战",
 ["Nuggetry"]="2恢复德",
 ["Destinysky"]="2射击猎",
@@ -43,7 +44,6 @@ STOP_Database = {
 ["Thugtug"]="5奇袭贼",
 ["Amethyst"]="5毁灭术",
 ["Gigachungus"]="5狂战",
-["Vyserion"]="1狂战,5防战",
 ["Decrapitated"]="6火法",
 ["Retracile"]="6奶骑",
 ["Healthy"]="6神牧,6暗牧",
@@ -77,8 +77,8 @@ STOP_Database = {
 ["Ziggy"]="13狂战",
 ["Lameo"]="14奇袭贼",
 ["Tankosaurus"]="14狂战",
-["Fkinga"]="15狂战",
-["Kek"]="16狂战",
+["Kek"]="15狂战",
+["Fkinga"]="16狂战",
 ["Blitz"]="18狂战",
 ["Ducktail"]="19狂战",
 ["Bigmarshawn"]="20狂战",
@@ -92,5 +92,5 @@ STOP_Database = {
 }
 
 WP_Database = {
-["LASTUPDATE"]="2024-03-22"
+["LASTUPDATE"]="2024-03-23"
 }
