@@ -30,6 +30,7 @@ STOP_Database = {
 ["Feketekola"]="3射击猎",
 ["Wobsterz"]="3火法",
 ["Flipster"]="3神牧",
+["Wibber"]="3奇袭贼,7奇袭贼",
 ["Hctotte"]="3恢复萨",
 ["Acrophob"]="3毁灭术",
 ["Dokzes"]="3狂战,10防战",
@@ -58,7 +59,6 @@ STOP_Database = {
 ["Donkencheese"]="7射击猎",
 ["Salat"]="7火法",
 ["Evensong"]="7神牧",
-["Wibbêr"]="3奇袭贼,7奇袭贼",
 ["Grapekoolaid"]="7恢复萨",
 ["Cj"]="7狂战",
 ["Guzer"]="8射击猎",
@@ -94,5 +94,5 @@ STOP_Database = {
 }
 
 WP_Database = {
-["LASTUPDATE"]="2024-03-25"
+["LASTUPDATE"]="2024-03-26"
 }
