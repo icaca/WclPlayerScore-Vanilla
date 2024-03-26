@@ -23,26 +23,26 @@ STOP_Database = {
 ["Arcamon"]="3火法",
 ["Layercake"]="3奶骑",
 ["Maro"]="1奶骑,3惩戒骑",
-["Archpriest"]="3神牧,3暗牧",
+["Archpriest"]="3暗牧,3神牧",
 ["Lnz"]="3奇袭贼",
 ["Sakka"]="3毁灭术",
 ["Sbp"]="1狂战,3防战",
-["Mikasa"]="4射击猎",
+["Mamba"]="4射击猎",
 ["Doobydoobydo"]="4火法",
 ["Mouratos"]="4奶骑",
 ["Holyfirex"]="4神牧",
-["Osiride"]="4暗牧,6神牧",
 ["Wy"]="4奇袭贼",
 ["Hellenis"]="4毁灭术",
 ["Element"]="4狂战",
 ["Nightqt"]="2狂战,4防战",
-["Mamba"]="5射击猎",
+["Mikasa"]="5射击猎",
 ["Slangemann"]="5火法",
 ["Shaya"]="5神牧",
 ["Insta"]="5奇袭贼",
 ["Gøodlife"]="5防战,6狂战",
 ["Crow"]="6射击猎",
 ["Jayme"]="6火法",
+["Osiride"]="4暗牧,6神牧",
 ["Slukicz"]="6奇袭贼",
 ["Ardx"]="6防战,7狂战",
 ["Thørøs"]="7射击猎",
@@ -53,5 +53,5 @@ STOP_Database = {
 }
 
 WP_Database = {
-["LASTUPDATE"]="2024-03-26"
+["LASTUPDATE"]="2024-03-27"
 }
