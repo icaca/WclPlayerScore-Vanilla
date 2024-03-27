@@ -244,7 +244,6 @@ STOP_Database = {
 ["Doop"]="11奇袭贼",
 ["Dexgerity"]="11防护贼",
 ["Cyniky"]="11元素萨",
-["Bigwhammy"]="11增强萨,77防护萨",
 ["Latrola"]="11恢复萨,41元素萨",
 ["Kexet"]="11防护萨",
 ["Hayzmann"]="11毁灭术",
@@ -1808,6 +1807,7 @@ STOP_Database = {
 ["Saintperoni"]="77元素萨",
 ["Zenira"]="77增强萨",
 ["Talimo"]="77恢复萨",
+["Bigwhammy"]="11增强萨,77防护萨",
 ["Deathspree"]="77毁灭术",
 ["Arvanthas"]="77防护术",
 ["Axeveros"]="77狂战",
@@ -2367,5 +2367,5 @@ STOP_Database = {
 }
 
 WP_Database = {
-["LASTUPDATE"]="2024-03-27"
+["LASTUPDATE"]="2024-03-28"
 }

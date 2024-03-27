@@ -69,7 +69,6 @@ STOP_Database = {
 ["Avonplus"]="3增强萨",
 ["Arxean"]="3恢复萨",
 ["Gußße"]="3防护萨",
-["Mutuwa"]="3毁灭术,4防护术",
 ["Capsaicin"]="3防护术",
 ["Imperator"]="3狂战",
 ["Carlpanzram"]="3防战",
@@ -94,6 +93,7 @@ STOP_Database = {
 ["Paragon"]="4增强萨",
 ["Grokka"]="4恢复萨",
 ["Khristouf"]="4防护萨",
+["Mutuwa"]="3毁灭术,4防护术",
 ["Mentis"]="4防战",
 ["Gígæbëärgdzx"]="5平衡",
 ["Pojoing"]="5野性德",
@@ -2400,5 +2400,5 @@ STOP_Database = {
 }
 
 WP_Database = {
-["LASTUPDATE"]="2024-03-27"
+["LASTUPDATE"]="2024-03-28"
 }

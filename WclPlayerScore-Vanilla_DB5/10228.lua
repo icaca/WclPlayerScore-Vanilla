@@ -456,6 +456,7 @@ STOP_Database = {
 ["Another"]="19奇袭贼",
 ["Babycrow"]="19防护贼",
 ["Fompe"]="19元素萨",
+["Pepper"]="19增强萨,21防护萨",
 ["Seshy"]="19恢复萨",
 ["Folmer"]="19防护萨",
 ["Balladebenny"]="19毁灭术",
@@ -507,7 +508,6 @@ STOP_Database = {
 ["Brolivia"]="21元素萨",
 ["Owwn"]="21增强萨",
 ["Leslei"]="21恢复萨",
-["Pepper"]="19增强萨,21防护萨",
 ["Jkingpk"]="21毁灭术",
 ["Kahones"]="21防护术",
 ["Xixo"]="21狂战",
@@ -2449,5 +2449,5 @@ STOP_Database = {
 }
 
 WP_Database = {
-["LASTUPDATE"]="2024-03-27"
+["LASTUPDATE"]="2024-03-28"
 }
