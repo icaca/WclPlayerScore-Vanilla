@@ -39,6 +39,7 @@ STOP_Database = {
 ["Jerpriest"]="4神牧,5暗牧",
 ["Redshirtkid"]="4奇袭贼",
 ["Yesman"]="4毁灭术",
+["Onlybonks"]="4狂战,10防战",
 ["Smollgoodman"]="4防战,13狂战",
 ["Paide"]="5野性德",
 ["Ericka"]="5射击猎",
@@ -61,12 +62,12 @@ STOP_Database = {
 ["Sabasaba"]="7射击猎",
 ["Kaimerica"]="7火法",
 ["Thickies"]="7奶骑",
-["Gannondwarf"]="7神牧,8暗牧",
 ["Oblagb"]="7奇袭贼",
 ["Retau"]="7狂战",
 ["Wadjah"]="7防战,27狂战",
 ["Bighyph"]="8射击猎",
 ["Icyhotts"]="8火法",
+["Gannondwarf"]="7神牧,8暗牧",
 ["Otulisa"]="8奇袭贼",
 ["Bomps"]="8狂战",
 ["Landsoulhc"]="8防战,12狂战",
@@ -80,7 +81,6 @@ STOP_Database = {
 ["Huggle"]="10奶骑",
 ["Donawenprhc"]="8神牧,10暗牧",
 ["Catahc"]="10奇袭贼",
-["Onlybonks"]="4狂战,10防战",
 ["Wolfwisperer"]="11射击猎",
 ["Fibonâççi"]="11火法",
 ["Tenzpriest"]="11神牧",
@@ -113,5 +113,5 @@ STOP_Database = {
 }
 
 WP_Database = {
-["LASTUPDATE"]="2024-04-16"
+["LASTUPDATE"]="2024-04-17"
 }
