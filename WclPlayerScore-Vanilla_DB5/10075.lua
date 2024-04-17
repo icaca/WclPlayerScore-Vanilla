@@ -3,7 +3,6 @@ return
 end
 
 STOP_Database = {
-["Digedi"]="1守护德,1野性德,3恢复德",
 ["Kowlana"]="1平衡,1恢复德",
 ["Jinzara"]="1射击猎",
 ["Yufi"]="1火法,2冰法",
@@ -16,12 +15,13 @@ STOP_Database = {
 ["Burníe"]="1冰法,1奇袭贼,2火法",
 ["Kajinosuke"]="2奶骑",
 ["Cinnymaii"]="2神牧,3暗牧",
+["Thureugam"]="2暗牧,3神牧",
 ["Seiya"]="2奇袭贼",
 ["Jackyynator"]="2毁灭术",
 ["Schmid"]="2狂战,2防战",
+["Digedi"]="1守护德,1野性德,3恢复德",
 ["Elfenberg"]="3射击猎",
 ["Calurea"]="3火法",
-["Thureugam"]="2暗牧,3神牧",
 ["Boppard"]="3奇袭贼",
 ["Rabaukin"]="1防战,3狂战",
 ["Mizane"]="1狂战,3防战",

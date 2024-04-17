@@ -3,8 +3,8 @@ return
 end
 
 STOP_Database = {
-["Fartnard"]="1冰法,1火法",
-["Rossi"]="1神牧,1暗牧",
+["Fartnard"]="1火法,1冰法",
+["Rossi"]="1暗牧,1神牧",
 ["Mugorax"]="1增强萨,1恢复萨",
 ["Grandpop"]="1狂战",
 ["Tankuvm"]="2狂战",
