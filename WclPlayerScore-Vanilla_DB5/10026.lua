@@ -3,7 +3,7 @@ return
 end
 
 STOP_Database = {
-["Geawin"]="1恢复德,1野性德,1守护德",
+["Geawin"]="1野性德,1守护德,1恢复德",
 ["Lefara"]="1射击猎",
 ["Noßody"]="1火法",
 ["Jéremiah"]="1冰法",
