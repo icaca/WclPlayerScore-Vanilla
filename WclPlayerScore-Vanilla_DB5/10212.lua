@@ -3,7 +3,7 @@ return
 end
 
 STOP_Database = {
-["Hazed"]="1野性德,1守护德",
+["Hazed"]="1守护德,1野性德",
 ["Slushie"]="1恢复德",
 ["Donkencheese"]="1射击猎",
 ["Wobsterz"]="1火法",
@@ -29,6 +29,7 @@ STOP_Database = {
 ["Erbear"]="3射击猎",
 ["Froslor"]="3火法",
 ["Flipster"]="3神牧",
+["Wibbêr"]="3奇袭贼,6奇袭贼",
 ["Stuxnet"]="3元素萨",
 ["Hctotte"]="3恢复萨",
 ["Moredark"]="3毁灭术",
@@ -54,9 +55,8 @@ STOP_Database = {
 ["Cuus"]="6射击猎",
 ["Downloader"]="1冰法,6火法",
 ["Vybe"]="6神牧",
-["Wibber"]="3奇袭贼,6奇袭贼",
 ["Cruzu"]="6恢复萨",
-["Grukashaa"]="6防战,27狂战",
+["Ziqzilla"]="6狂战,11防战",
 ["Feketekola"]="7射击猎",
 ["Watchthreat"]="7火法",
 ["Corvin"]="7神牧",
@@ -84,7 +84,6 @@ STOP_Database = {
 ["Haaricho"]="11奇袭贼",
 ["Spajkey"]="11恢复萨",
 ["Dokzes"]="11狂战,13防战",
-["Ziqzilla"]="6狂战,11防战",
 ["Deinernst"]="12火法",
 ["Elohims"]="12神牧",
 ["Furplay"]="12恢复萨",
@@ -105,8 +104,9 @@ STOP_Database = {
 ["Wearefarmers"]="23狂战",
 ["Koifé"]="24狂战",
 ["Amandus"]="25狂战",
+["Grukashaa"]="6防战,27狂战",
 }
 
 WP_Database = {
-["LASTUPDATE"]="2024-04-18"
+["LASTUPDATE"]="2024-04-19"
 }
