@@ -16,10 +16,10 @@ end
 local function loadScoreDB()
 	local ScoreDB1 = { }
 	local ScoreDB2 = { }
-	local ScoreDB3 = { "伊弗斯","瑪拉頓","特雷姆斯","虛無行者","十字軍聖擊","生命烈焰","孤狼","野性痊癒" }
-	local ScoreDB4 = { "Bloodsail Buccaneers","Faerlina","Fairbanks","Grobbulus","Herod","Mankrik","Pagle","Whitemane","Blaumeux","Skeram","Bigglesworth","Westfall","Kurinnaxx","Smolderweb","Sulfuras","Ashkandi","Rattlegore","Thunderfury","Windseeker","Anathema","Arcanite Reaper","Defias Pillager","Crusader Strike","Lava Lash","Living Flame","Lone Wolf","Wild Growth","Penance","Shadowstrike","Chaos Bolt" }
-	local ScoreDB5 = { "Golemagg","Hydraxian Waterlords","Mirage Raceway","Pyrewood Village","Shazzrah","Auberdine","Sulfuron","Everlook","Пламегор","Gehennas","Firemaw","Gandling","Mograine","Nethergarde Keep","Razorgore","Noggenfogger","Ashbringer","Skullflame","Dragon's Call","Lakeshire","Bloodfang","Earthshaker","Venoxis","Рок-Делар","Heartstriker","Dragonfang","Nek'Rosh","Stitches","Crusader Strike","Lava Lash","Living Flame","Lone Wolf","Wild Growth","Удар Тьмы","Chaos Bolt" }
-	local ScoreDB6 = { "로크홀라","얼음피","라그나로스","힐스브래드","막고라","고독한 늑대","급속 성장"}
+	local ScoreDB3 = { "伊弗斯","瑪拉頓","虛無行者","特雷姆斯" }
+	local ScoreDB4 = { "Pagle","Whitemane","Arcanite Reaper","Mankrik","Herod","Fairbanks","Faerlina","Bloodsail Buccaneers","Anathema","Grobbulus","Kurinnaxx","Smolderweb","Westfall","Bigglesworth","Sulfuras","Ashkandi","Rattlegore","Thunderfury","Windseeker","Skeram","Blaumeux","Defias Pillager" }
+	local ScoreDB5 = { "Sulfuron","Heartstriker","Pyrewood Village","Mirage Raceway","Hydraxian Waterlords","Golemagg","Рок-Делар","Shazzrah","Razorgore","Everlook","Пламегор","Gehennas","Firemaw","Auberdine","Mograine","Lakeshire","Nethergarde Keep","Gandling","Dragon's Call","Noggenfogger","Skullflame","Bloodfang","Dragonfang","Earthshaker","Ashbringer","Venoxis","Stitches","Nek'Rosh" }
+	local ScoreDB6 = { "힐스브래드","라그나로스","얼음피","로크홀라","막고라"}
 
 	for k, v in ipairs(ScoreDB1) do
 		if v == GetRealmName() then LoadAddOn("WclPlayerScore-Vanilla_DB1")
