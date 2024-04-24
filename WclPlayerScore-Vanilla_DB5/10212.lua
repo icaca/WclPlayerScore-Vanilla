@@ -108,6 +108,5 @@ STOP_Database = {
 }
 
 WP_Database = {
-["Grukasham"]="LT:(增强)522.98/0%|1",
 ["LASTUPDATE"]="2024-04-24"
 }
