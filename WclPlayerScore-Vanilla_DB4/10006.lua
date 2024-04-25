@@ -3,14 +3,14 @@ return
 end
 
 STOP_Database = {
-["Snoochies"]="1野性德,1守护德",
+["Snoochies"]="1守护德,1野性德",
 ["Cösmös"]="1恢复德,1平衡",
 ["Nostrings"]="1射击猎",
 ["Asharladon"]="1火法",
 ["Jetsdoctor"]="1冰法,3火法",
-["Nothe"]="1神牧,1暗牧",
+["Nothe"]="1暗牧,1神牧",
 ["Chapsterz"]="1元素萨,5恢复萨",
-["Jamesp"]="1恢复萨,1增强萨,3元素萨",
+["Jamesp"]="1增强萨,1恢复萨,3元素萨",
 ["Lethalic"]="1毁灭术",
 ["Bogiee"]="1狂战",
 ["Qialifivenia"]="1防战,2狂战",
@@ -25,7 +25,7 @@ STOP_Database = {
 ["Archetype"]="3防战,9狂战",
 ["Béùq"]="4火法",
 ["Berffy"]="4恢复萨",
-["Swoody"]="4防战,4狂战",
+["Swoody"]="4狂战,4防战",
 ["Badtodabone"]="6狂战",
 ["Spok"]="7狂战",
 ["Drambit"]="8狂战",

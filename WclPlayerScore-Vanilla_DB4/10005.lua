@@ -3,7 +3,7 @@ return
 end
 
 STOP_Database = {
-["Motus"]="1野性德,1守护德,6恢复德",
+["Motus"]="1守护德,1野性德,6恢复德",
 ["Karva"]="1恢复德",
 ["Methöd"]="1射击猎",
 ["Bojjo"]="1火法,2冰法",
@@ -35,7 +35,7 @@ STOP_Database = {
 ["Gnimezz"]="3火法,6冰法",
 ["Runewield"]="3冰法",
 ["Camillus"]="3奶骑",
-["Jarl"]="3神牧,3暗牧",
+["Jarl"]="3暗牧,3神牧",
 ["Nosferatta"]="3奇袭贼",
 ["Darthvaders"]="3毁灭术",
 ["Adroyt"]="3狂战,5防战",

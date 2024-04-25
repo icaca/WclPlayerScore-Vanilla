@@ -3,7 +3,7 @@ return
 end
 
 STOP_Database = {
-["Bigpawpaw"]="1野性德,1守护德",
+["Bigpawpaw"]="1守护德,1野性德",
 ["Nightkid"]="1恢复德",
 ["Aryas"]="1射击猎",
 ["Skylarke"]="1火法",

@@ -3,7 +3,7 @@ return
 end
 
 STOP_Database = {
-["Whaletime"]="1平衡,1恢复德",
+["Whaletime"]="1恢复德,1平衡",
 ["Spring"]="1射击猎",
 ["Agyumlol"]="1火法",
 ["Toshiro"]="1冰法,5火法",
@@ -11,14 +11,14 @@ STOP_Database = {
 ["Nuranfu"]="1惩戒骑,2奶骑",
 ["Brizzly"]="1暗牧,1神牧",
 ["Raserie"]="1奇袭贼",
-["Yungrichorc"]="1元素萨,1增强萨,4恢复萨",
+["Yungrichorc"]="1增强萨,1元素萨,4恢复萨",
 ["Avaz"]="1恢复萨,2元素萨",
 ["Kzixx"]="1毁灭术",
 ["Vyserion"]="1狂战,6防战",
 ["Warand"]="1防战,24狂战",
 ["Nuggetry"]="2恢复德",
 ["Destinysky"]="2射击猎",
-["Agyumloltwo"]="2火法,2冰法",
+["Agyumloltwo"]="2冰法,2火法",
 ["Peggy"]="2神牧,5暗牧",
 ["Demetris"]="2暗牧,5神牧",
 ["Agyum"]="2奇袭贼",
