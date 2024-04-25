@@ -1,4 +1,4 @@
-## Interface: 11500
+## Interface: 11502
 ## Title: WclPlayerScore-Vanilla
 ## Version: @project-version@
 ## Author: 插件作者：zwj@oldgun ，TBC数据提取：SaberNio，Vanilla数据提取：caca，鸣谢：deepapa@NGA
